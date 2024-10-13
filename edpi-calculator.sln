@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edpi-calculator", "edpi-calculator.csproj", "{0AFBFAD1-D0FE-41D9-B4A8-17CEEBD3D94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFBFAD1-D0FE-41D9-B4A8-17CEEBD3D94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFBFAD1-D0FE-41D9-B4A8-17CEEBD3D94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFBFAD1-D0FE-41D9-B4A8-17CEEBD3D94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFBFAD1-D0FE-41D9-B4A8-17CEEBD3D94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871DB8E3-5EA8-4218-AA47-254833762AA6}
+	EndGlobalSection
+EndGlobal
